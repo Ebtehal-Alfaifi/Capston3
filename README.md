@@ -12,9 +12,7 @@ admin
 event
 
 event particepnt
-
-farm 
-
+ 
 Supplier 
 
 
