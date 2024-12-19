@@ -1,4 +1,3 @@
-blob:https://web.whatsapp.com/e77d755d-e59b-45bc-a690-80890462be76
 
 
 getSupplierByAddress();
