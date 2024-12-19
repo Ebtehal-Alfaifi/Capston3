@@ -5,8 +5,6 @@
 
 
 Model-controller-service-DTOs-Repository
- 
-
 admin
 
 event
@@ -15,9 +13,11 @@ event particepnt
  
 Supplier 
 
-
  SupplierDTO Out (Special)
 ///  that supplier DTO is for compare between supplier by there price
+
+
+(End point)
 getSupplierByAddress();
 
 sendEmailNotification();
