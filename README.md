@@ -2,23 +2,39 @@
 
 
 getSupplierByAddress();
+
 sendEmailNotification();
+
 getRentalsNearExpiration();
+
 transferPlantBetweenFarms();
+
 getLowQuantityProductsForSupplier();
+
 applyDiscountToProduct();
+
 getSuppliersByProductPrice();
+
 getSuppliersByHeavyEquipmentRentPrice();
+
 transferFarmer();
+
 getEventByDate();
+
 approveParticipation();
+
 rejectParticipation();
 
 Model-controller-service-DTOs-Repository
+
 HeavyEquipment 
+
 Farm
+
 LiveStock 
+
 Plant 
+
 Supplier 
 
 
